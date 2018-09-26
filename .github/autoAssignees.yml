@@ -1,5 +1,5 @@
 labelToAuthor: {
-  bug: [zunlihu],
-  enhancement: [zunlihu],
-  question: [zunlihu] 
+  "bug": ["zunlihu"],
+  "enhancement": ["zunlihu"],
+  "question": ["zunlihu"] 
 }
